@@ -74,6 +74,12 @@ h2 {
   font-size: 12px;
 }
 
+.sci-icon {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 14px;
+}
+
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
