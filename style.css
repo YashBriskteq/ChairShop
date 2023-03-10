@@ -74,12 +74,6 @@ h2 {
   font-size: 12px;
 }
 
-.sci-icon {
-  width: 32px;
-  height: 32px;
-  margin-bottom: 14px;
-}
-
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
@@ -114,6 +108,10 @@ img {
 
 /* FEATURES */
 .features-icon {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 14px;
+  color: #087f5b;
 }
 
 .features-title {
@@ -177,6 +175,10 @@ h3 {
 }
 
 .chair-icon {
+  width: 24px;
+  stroke: #087f5b;
+  height: 24px;
+  margin-bottom: 14px;
 }
 
 .chair-price {
