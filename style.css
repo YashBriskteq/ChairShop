@@ -33,6 +33,10 @@ body {
   margin: 0 auto;
 }
 
+img {
+  border-radius: 10px;
+}
+
 header,
 section {
   margin-bottom: 48px;
@@ -57,6 +61,7 @@ h2 {
   text-transform: uppercase;
   padding: 16px 32px;
   display: inline-block;
+  border-radius: 12px;
 }
 
 .btn:hover,
@@ -130,6 +135,7 @@ img {
   background-color: #099268;
   color: white;
   padding: 24px;
+  border-radius: 10px;
 }
 
 .testimonial-box {
@@ -153,7 +159,14 @@ img {
 
 .chair {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
 }
+
+.chair img {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
 .chair-box {
   padding: 24px;
 }
